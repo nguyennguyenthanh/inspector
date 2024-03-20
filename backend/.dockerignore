@@ -1,0 +1,14 @@
+coverage
+node_modules
+dist
+yarn-error.log
+.git
+.gitignore
+.gitmodules
+.DS_Store
+package-lock.json
+scripts
+proto
+src/logs
+.vscode
+/.idea
